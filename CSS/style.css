@@ -1,1 +1,10 @@
+body {
+ background: #00FFFF;
+ font-family: "Arial";
+ color: #FE2E2E;
+}
 
+a{
+   text-decoration: none;
+ text-decoration-line: none;
+}
