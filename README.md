@@ -3,7 +3,7 @@
 2. Activa las Github Pages (hosting de github)
 3. Añádele el fichero de inicio. En él aparecerá una tabla html con las siguientes columnas: nombre y apellidos, usuariogithub, enlace al hosting de este repositorio HolaMundo de  github.
 
-      3. 1. nombre y apellidos del alumno
+      1. nombre y apellidos del alumno
       3. 2. usuariogithub
       3. 3. enlace al repositorio HolaMundo de github
       3. 4. enlace al hosting de este repositorio HolaMundo de github.
